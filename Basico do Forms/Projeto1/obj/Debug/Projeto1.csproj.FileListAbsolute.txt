@@ -1,0 +1,11 @@
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\obj\Debug\Projeto1.Form1.resources
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\bin\Debug\Projeto1.exe.config
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\bin\Debug\Projeto1.exe
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\bin\Debug\Projeto1.pdb
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\obj\Debug\Projeto1.exe
+E:\Desktop\Escola\Curso C#\Projeto1\Projeto1\obj\Debug\Projeto1.pdb

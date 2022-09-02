@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Curso C#\Basico\Basico\bin\Debug\Basico.exe.config
+E:\Desktop\Escola\Curso C#\Basico\Basico\bin\Debug\Basico.exe
+E:\Desktop\Escola\Curso C#\Basico\Basico\bin\Debug\Basico.pdb
+E:\Desktop\Escola\Curso C#\Basico\Basico\obj\Debug\Basico.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Curso C#\Basico\Basico\obj\Debug\Basico.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Curso C#\Basico\Basico\obj\Debug\Basico.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Curso C#\Basico\Basico\obj\Debug\Basico.exe
+E:\Desktop\Escola\Curso C#\Basico\Basico\obj\Debug\Basico.pdb
