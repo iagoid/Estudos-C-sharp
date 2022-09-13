@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Curso C#\Orientacao_objetos\Orientacao_objetos\bin\Debug\Orientacao_objetos.exe.config
+E:\Desktop\Escola\Curso C#\Orientacao_objetos\Orientacao_objetos\bin\Debug\Orientacao_objetos.exe
+E:\Desktop\Escola\Curso C#\Orientacao_objetos\Orientacao_objetos\bin\Debug\Orientacao_objetos.pdb
+E:\Desktop\Escola\Curso C#\Orientacao_objetos\Orientacao_objetos\obj\Debug\Orientacao_objetos.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Curso C#\Orientacao_objetos\Orientacao_objetos\obj\Debug\Orientacao_objetos.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Curso C#\Orientacao_objetos\Orientacao_objetos\obj\Debug\Orientacao_objetos.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Curso C#\Orientacao_objetos\Orientacao_objetos\obj\Debug\Orientacao_objetos.exe
+E:\Desktop\Escola\Curso C#\Orientacao_objetos\Orientacao_objetos\obj\Debug\Orientacao_objetos.pdb
