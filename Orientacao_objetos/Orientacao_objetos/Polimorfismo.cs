@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Orientacao_objetos
 {
-    abstract internal class Forma
+    internal class Forma
     {
         public int Altura { get; set; }
         public int Largura { get; set; }

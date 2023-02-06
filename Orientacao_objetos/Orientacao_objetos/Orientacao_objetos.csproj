@@ -48,6 +48,7 @@
     <Compile Include="Get_Set.cs" />
     <Compile Include="Heranca.cs" />
     <Compile Include="Heranca2.cs" />
+    <Compile Include="Interface.cs" />
     <Compile Include="Interfaces.cs" />
     <Compile Include="ModificadoresDeAcesso.cs" />
     <Compile Include="PartialClass1.cs" />

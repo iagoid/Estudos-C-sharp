@@ -1,0 +1,11 @@
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\Desktop\Escola\Curso C#\Windows Forms\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

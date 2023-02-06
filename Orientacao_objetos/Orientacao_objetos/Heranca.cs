@@ -19,7 +19,7 @@ namespace Orientacao_objetos
         public string Marca { get; set; }
 
         // No metodo abstrato
-        // cada classe herdeira precisa da sua própria imprementação
+        // cada classe herdeira precisa da sua própria implementação
         public abstract void Acelerar(); 
  
         public void Freiar()

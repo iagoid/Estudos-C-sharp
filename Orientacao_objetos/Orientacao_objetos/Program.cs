@@ -27,7 +27,12 @@ namespace Orientacao_objetos
             int anoVotar = clsPessoa1.AnoMaiorIdade(DateTime.Now.Year);
             Console.WriteLine("Maior de idade em " + anoVotar);
 
+            clsPessoa1.MostrarIdades(1, 33, 54, 54, 65, 343);
+
             clsPessoa1.AdicionarValor(ref clsPessoa1.idade); // Passar ref aqui
+            clsPessoa1.AdicionarValorOut(out int idade); // Passar valor por out
+            Console.WriteLine($"Idade de saida do out {idade}");
+
             clsPessoa1.AnoMaiorIdade(DateTime.Now.Year);
             clsPessoa.VerificaNome("Emerson");
 
