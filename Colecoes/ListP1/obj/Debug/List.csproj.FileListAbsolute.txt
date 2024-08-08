@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Colecoes\ListP1\bin\Debug\ListP1.exe.config
+E:\Desktop\Escola\Estudos C#\Colecoes\ListP1\bin\Debug\ListP1.exe
+E:\Desktop\Escola\Estudos C#\Colecoes\ListP1\bin\Debug\ListP1.pdb
+E:\Desktop\Escola\Estudos C#\Colecoes\ListP1\obj\Debug\List.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Colecoes\ListP1\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Colecoes\ListP1\obj\Debug\List.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Colecoes\ListP1\obj\Debug\ListP1.exe
+E:\Desktop\Escola\Estudos C#\Colecoes\ListP1\obj\Debug\ListP1.pdb

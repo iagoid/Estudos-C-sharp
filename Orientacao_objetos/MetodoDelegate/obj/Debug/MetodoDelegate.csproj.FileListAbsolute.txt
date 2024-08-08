@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodoDelegate\bin\Debug\MetodoDelegate.exe.config
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodoDelegate\bin\Debug\MetodoDelegate.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodoDelegate\bin\Debug\MetodoDelegate.pdb
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodoDelegate\obj\Debug\MetodoDelegate.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodoDelegate\obj\Debug\MetodoDelegate.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodoDelegate\obj\Debug\MetodoDelegate.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodoDelegate\obj\Debug\MetodoDelegate.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodoDelegate\obj\Debug\MetodoDelegate.pdb

@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Excecoes\Excecoes\bin\Debug\Excecoes.exe.config
+E:\Desktop\Escola\Estudos C#\Excecoes\Excecoes\bin\Debug\Excecoes.exe
+E:\Desktop\Escola\Estudos C#\Excecoes\Excecoes\bin\Debug\Excecoes.pdb
+E:\Desktop\Escola\Estudos C#\Excecoes\Excecoes\obj\Debug\Excecoes.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Excecoes\Excecoes\obj\Debug\Excecoes.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Excecoes\Excecoes\obj\Debug\Excecoes.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Excecoes\Excecoes\obj\Debug\Excecoes.exe
+E:\Desktop\Escola\Estudos C#\Excecoes\Excecoes\obj\Debug\Excecoes.pdb

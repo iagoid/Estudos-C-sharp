@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Indexadores\bin\Debug\Indexadores.exe.config
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Indexadores\bin\Debug\Indexadores.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Indexadores\bin\Debug\Indexadores.pdb
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Indexadores\obj\Debug\Indexadores.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Indexadores\obj\Debug\Indexadores.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Indexadores\obj\Debug\Indexadores.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Indexadores\obj\Debug\Indexadores.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Indexadores\obj\Debug\Indexadores.pdb

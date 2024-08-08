@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Exemplos\bin\Debug\Exemplos.exe.config
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Exemplos\bin\Debug\Exemplos.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Exemplos\bin\Debug\Exemplos.pdb
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Exemplos\obj\Debug\StaticMetodo.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Exemplos\obj\Debug\StaticMetodo.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Exemplos\obj\Debug\StaticMetodo.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Exemplos\obj\Debug\Exemplos.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Exemplos\obj\Debug\Exemplos.pdb

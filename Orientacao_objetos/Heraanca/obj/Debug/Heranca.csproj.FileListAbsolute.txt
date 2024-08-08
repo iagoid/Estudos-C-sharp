@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Heraanca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Heraanca\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Heraanca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Heraanca\bin\Debug\Heraanca.exe.config
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Heraanca\bin\Debug\Heraanca.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Heraanca\bin\Debug\Heraanca.pdb
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Heraanca\obj\Debug\Heraanca.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Heraanca\obj\Debug\Heraanca.pdb

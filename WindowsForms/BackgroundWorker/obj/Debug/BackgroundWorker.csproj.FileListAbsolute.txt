@@ -1,0 +1,11 @@
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\bin\Debug\BackgroundWorker.exe.config
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.Form1.resources
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.cache
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+E:\Desktop\Escola\Estudos C#\WindowsForms\BackgroundWorker\obj\Debug\BackgroundWorker.pdb

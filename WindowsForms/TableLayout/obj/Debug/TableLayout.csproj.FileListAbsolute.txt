@@ -1,0 +1,11 @@
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\bin\Debug\TableLayout.exe.config
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\bin\Debug\TableLayout.exe
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\bin\Debug\TableLayout.pdb
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\obj\Debug\TableLayout.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\obj\Debug\TableLayout.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\obj\Debug\TableLayout.Form1.resources
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\obj\Debug\TableLayout.Properties.Resources.resources
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\obj\Debug\TableLayout.csproj.GenerateResource.cache
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\obj\Debug\TableLayout.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\obj\Debug\TableLayout.exe
+E:\Desktop\Escola\Estudos C#\WindowsForms\TableLayout\obj\Debug\TableLayout.pdb

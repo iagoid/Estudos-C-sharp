@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+E:\Desktop\Escola\Estudos C#\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+E:\Desktop\Escola\Estudos C#\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+E:\Desktop\Escola\Estudos C#\Colecoes\Colecoes\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Colecoes\Colecoes\obj\Debug\Dictionary.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Colecoes\Colecoes\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+E:\Desktop\Escola\Estudos C#\Colecoes\Colecoes\obj\Debug\Colecoes.pdb

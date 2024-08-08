@@ -1,0 +1,12 @@
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\bin\Debug\OpenForms.exe.config
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\bin\Debug\OpenForms.exe
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\bin\Debug\OpenForms.pdb
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\obj\Debug\OpenForms.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\obj\Debug\OpenForms.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\obj\Debug\OpenForms.Filho.resources
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\obj\Debug\OpenForms.Pai.resources
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\obj\Debug\OpenForms.Properties.Resources.resources
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\obj\Debug\OpenForms.csproj.GenerateResource.cache
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\obj\Debug\OpenForms.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\obj\Debug\OpenForms.exe
+E:\Desktop\Escola\Estudos C#\OpenForms\OpenForms\obj\Debug\OpenForms.pdb

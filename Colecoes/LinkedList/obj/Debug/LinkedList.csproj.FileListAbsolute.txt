@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Colecoes\LinkedList\bin\Debug\LinkedList.exe.config
+E:\Desktop\Escola\Estudos C#\Colecoes\LinkedList\bin\Debug\LinkedList.exe
+E:\Desktop\Escola\Estudos C#\Colecoes\LinkedList\bin\Debug\LinkedList.pdb
+E:\Desktop\Escola\Estudos C#\Colecoes\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Colecoes\LinkedList\obj\Debug\LinkedList.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Colecoes\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Colecoes\LinkedList\obj\Debug\LinkedList.exe
+E:\Desktop\Escola\Estudos C#\Colecoes\LinkedList\obj\Debug\LinkedList.pdb

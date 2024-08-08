@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodosAbstratos\bin\Debug\MetodosAbstratos.exe.config
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodosAbstratos\bin\Debug\MetodosAbstratos.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodosAbstratos\bin\Debug\MetodosAbstratos.pdb
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodosAbstratos\obj\Debug\MetodosAbstratos.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodosAbstratos\obj\Debug\MetodosAbstratos.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodosAbstratos\obj\Debug\MetodosAbstratos.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodosAbstratos\obj\Debug\MetodosAbstratos.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\MetodosAbstratos\obj\Debug\MetodosAbstratos.pdb

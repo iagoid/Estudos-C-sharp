@@ -1,0 +1,8 @@
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Structs\bin\Debug\Structs.exe.config
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Structs\bin\Debug\Structs.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Structs\bin\Debug\Structs.pdb
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Structs\obj\Debug\Structs.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Structs\obj\Debug\Structs.exe
+E:\Desktop\Escola\Estudos C#\Orientacao_objetos\Structs\obj\Debug\Structs.pdb

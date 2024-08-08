@@ -24,6 +24,11 @@ namespace Orientacao_objetos
             this.altura = altura;
         }
 
+        // Destrutor
+        ~ Pessoa() {
+            Console.WriteLine("Pessoa foi destruida");
+        }
+
         public void Cumprimentar()
         {
             Console.WriteLine("Seja bem vindo " + this.nome);
